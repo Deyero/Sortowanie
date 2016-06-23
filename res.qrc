@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>kody/SelectionSort.txt</file>
+        <file>kody/QuickSort.txt</file>
+        <file>kody/BubbleSort.txt</file>
+        <file>kody/HeapSort.txt</file>
+        <file>kody/InsertionSort.txt</file>
+        <file>kody/MergeSort.txt</file>
+        <file>kody/Nic.txt</file>
+        <file>kody/BogoSort.txt</file>
+    </qresource>
+</RCC>
